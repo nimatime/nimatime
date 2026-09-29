@@ -4,4 +4,3 @@ Your AI writes Swift. Axint makes sure it ships: Xcode-backed verdicts, signed r
 
 - [agenticempire/axint](https://github.com/agenticempire/axint) - prove AI-written Swift before merge
 - [axint-examples](https://github.com/agenticempire/axint-examples) - examples for the proof and repair layer
-- [hermes-agent](https://github.com/nimatime/hermes-agent) - the agent that grows with you
